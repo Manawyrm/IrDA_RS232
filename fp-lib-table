@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TFDU4301")(type "KiCad")(uri "${KIPRJMOD}/TFDU4301.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/ToolingHole.pretty")(options "")(descr ""))
+)

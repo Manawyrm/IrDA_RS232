@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "MCP2155")(type "KiCad")(uri "${KIPRJMOD}/MCP2155.kicad_sym")(options "")(descr ""))
+  (lib (name "TFBS4652")(type "KiCad")(uri "${KIPRJMOD}/TFBS4652.kicad_sym")(options "")(descr ""))
 )
