@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/tobias/Entwicklung/IrDA_RS232/IrDA_RS232.kicad_sch</source>
+    <date>2022 March 21, Monday 10:12:31</date>
+    <tool>Eeschema (6.0.4-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>IrDA_RS232</title>
+        <company>Tobias Mädel (@manawyrm)</company>
+        <rev>Rev A</rev>
+        <date>2022-03-20</date>
+        <source>IrDA_RS232.kicad_sch</source>
+        <comment number="1" value="tbspace.de"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fe10355-9bff-451d-9553-0e09162ee625</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02cf359a-4dab-4583-b734-cae797cc61b9</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a29152ba-62f6-48d3-9e45-c8154083a1ba</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9b0fae9-b5d3-42f5-a90e-978914e60013</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba86970c-1056-41ef-848c-189170aa5b6a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bcb03bd-f885-46e6-9bc9-89036d1d42f6</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b4aec56-1cf1-4e51-b2c2-c8434a652b1b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78c55935-82c1-407f-a570-bcec395d1589</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14996b26-f4d1-456f-8317-9e1826309c22</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6edf0f57-41df-4529-a105-a792f0fa2324</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24d8c8fb-6194-4584-9254-513c818b5eaf</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF 25V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f482276-fc61-4f98-9b27-ff93e03c1342</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1555</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1555"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>797e9701-c8cd-4580-b671-84e663e5508b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1555</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1555"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>856f80e2-a33c-4e9b-a612-30aace2347c0</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afb82157-d885-4dec-9165-82a7d08d454f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>128e40bc-9dc5-42f3-83ab-b924b2f341db</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b11d435-f14c-4d12-bbc9-16a52538d794</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>IR link</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Green</field>
+        <field name="LCSC">C72043</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C72043"/>
+      <property name="Color" value="Green"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>084acda8-d4b5-4071-8d4b-79ba1ba31cb1</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAV99</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2500</field>
+      </fields>
+      <libsource lib="Diode" part="BAV99" description="BAV99 High-speed switching diodes, SOT-23"/>
+      <property name="LCSC" value="C2500"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7259668-a7be-4c21-96a4-8846ac80b0fb</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>ToolingHole:ToolingHole_JLCSMT</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba033dd1-a5e2-4136-b71b-d0a1cef6fc1f</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>ToolingHole:ToolingHole_JLCSMT</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>547db1cd-6b0f-4c16-ae8b-4456029c62ad</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>RS232</value>
+      <footprint>Connector_Dsub:DSUB-9_Male_Vertical_P2.77x2.84mm_MountingHoles</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="DB9_Male_MountingHoles" description="9-pin male D-SUB connector, Mounting Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>689507a4-1c52-4aca-8734-2faa424e9fd3</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>BAUD0</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f93c323-3b82-460b-b1b7-540d0af145c5</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>BAUD1</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ce0ab98-20ca-4711-8cb7-6d43f3174413</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>078e5fce-dc80-42bb-9ac4-ed74a2790404</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5a0fbce-d141-4b97-bbb7-f5d9c46936d1</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60272672-dc8e-45c3-b28c-6250063d29d6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c20f856-f409-4bb2-a0c2-9ca616a51f38</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C17903</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2a33657-a3d5-4da8-a71e-4181db9a951b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC">C17903</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0951b46-24ee-417e-89ce-1421f932b9d6</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4.7R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17675</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17675"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5db18563-3962-478a-8acb-769ef6ca3eac</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>530a98c5-6c9e-4c5a-a886-92ee0aae938c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25741</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c378b76e-6761-4295-9491-256a4807b525</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fb75c5d-91f3-4b8a-b65f-96e16520f644</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>5V</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fff239a0-819c-422a-8274-b2a8a4670a45</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61c06bb7-6e2d-4294-8a14-e6576e4872cd</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MAX232</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/max232.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C26860</field>
+      </fields>
+      <libsource lib="Interface_UART" part="MAX232" description="Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"/>
+      <property name="LCSC" value="C26860"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e952984-af1f-47ef-a9db-357321a7c301</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX232</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/max232.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C26860</field>
+      </fields>
+      <libsource lib="Interface_UART" part="MAX232" description="Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"/>
+      <property name="LCSC" value="C26860"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da40666-40e6-4a68-adef-155fd622c4cc</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MCP2155</value>
+      <footprint>Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/21690B.pdf</datasheet>
+      <libsource lib="MCP2155" part="MCP2155" description="MCP2155 - IrDA® Standard Protocol Stack Controller - Supporting DCE Applications"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1a3d0f3-7f72-45cf-9789-9a660e3deda7</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TFDU4301</value>
+      <footprint>TFDU4301:TFDU4301</footprint>
+      <datasheet>https://www.vishay.com/docs/81965/tfdu4301.pdf</datasheet>
+      <libsource lib="TFBS4652" part="TFDU4301" description="Infrared Transceiver Module (SIR, 115.2 kbit/s) for IrDA® Applications"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b18046a2-5005-4f1e-a713-909235ac1cf4</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value> 11.0592 MHz</value>
+      <footprint>Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="LCSC">C112574</field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="LCSC" value="C112574"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IrDA_RS232.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6536bd22-20bd-4dce-9589-ff8f1629bca1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="DB9_Male_MountingHoles">
+      <description>9-pin male D-SUB connector, Mounting Hole</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>DSUB*Male*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DB9_Male_MountingHoles</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="0" name="PAD" type="passive"/>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAV99">
+      <description>BAV99 High-speed switching diodes, SOT-23</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAV99</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="MAX232">
+      <description>Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C</description>
+      <docs>http://www.ti.com/lit/ds/symlink/max232.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX232</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/max232.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="power_out"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="power_out"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Bridged12">
+      <description>3-pole Solder Jumper, pins 1+2 closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged12*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Bridged12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCP2155" part="MCP2155">
+      <description>MCP2155 - IrDA® Standard Protocol Stack Controller - Supporting DCE Applications</description>
+      <docs>https://ww1.microchip.com/downloads/en/DeviceDoc/21690B.pdf</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>PDIP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP2155</field>
+        <field name="Footprint">Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/en/DeviceDoc/21690B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BAUD0" type="input"/>
+        <pin num="2" name="TXIR" type="output"/>
+        <pin num="3" name="RXIR" type="input"/>
+        <pin num="4" name="~{RESET}" type="input"/>
+        <pin num="5" name="VSS" type="power_in"/>
+        <pin num="6" name="EN" type="input"/>
+        <pin num="7" name="TX" type="input"/>
+        <pin num="8" name="RX" type="output"/>
+        <pin num="9" name="RI" type="input"/>
+        <pin num="10" name="DSR" type="output"/>
+        <pin num="11" name="DTR" type="input"/>
+        <pin num="12" name="CTS" type="output"/>
+        <pin num="13" name="RTS" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+        <pin num="15" name="CLKOUT/OSC2" type="output"/>
+        <pin num="16" name="CLKIN/OSC1" type="input"/>
+        <pin num="17" name="CD" type="input"/>
+        <pin num="18" name="BAUD1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="TFBS4652" part="TFDU4301">
+      <description>Infrared Transceiver Module (SIR, 115.2 kbit/s) for IrDA® Applications</description>
+      <docs>https://www.vishay.com/docs/81965/tfdu4301.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TFDU4301</field>
+        <field name="Footprint">TFDU4301:TFDU4301</field>
+        <field name="Datasheet">https://www.vishay.com/docs/81965/tfdu4301.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IRED_{Anode}" type="input"/>
+        <pin num="2" name="IRED_{Cathode}" type="input"/>
+        <pin num="3" name="TXD" type="input"/>
+        <pin num="4" name="RXD" type="output"/>
+        <pin num="5" name="SD" type="input"/>
+        <pin num="6" name="V_{cc1}" type="input"/>
+        <pin num="7" name="V_{IO}" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7002">
+      <description>0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCP2155">
+      <uri>/Users/tobias/Entwicklung/IrDA_RS232/MCP2155.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="TFBS4652">
+      <uri>/Users/tobias/Entwicklung/IrDA_RS232/TFBS4652.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="EN" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="V_{IO}" pintype="input"/>
+    </net>
+    <net code="2" name="/BAUD0">
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="BAUD0" pintype="input"/>
+    </net>
+    <net code="3" name="/BAUD1">
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="BAUD1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/MCP_CD">
+      <node ref="U2" pin="9" pinfunction="R2OUT" pintype="output"/>
+      <node ref="U3" pin="17" pinfunction="CD" pintype="input"/>
+    </net>
+    <net code="5" name="/MCP_CTS">
+      <node ref="U1" pin="10" pinfunction="T2IN" pintype="input"/>
+      <node ref="U3" pin="12" pinfunction="CTS" pintype="output"/>
+    </net>
+    <net code="6" name="/MCP_DSR">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="T2IN" pintype="input"/>
+      <node ref="U3" pin="10" pinfunction="DSR" pintype="output"/>
+    </net>
+    <net code="7" name="/MCP_DTR">
+      <node ref="U2" pin="12" pinfunction="R1OUT" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="DTR" pintype="input"/>
+    </net>
+    <net code="8" name="/MCP_RI">
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="RI" pintype="input"/>
+    </net>
+    <net code="9" name="/MCP_RTS">
+      <node ref="U1" pin="9" pinfunction="R2OUT" pintype="output"/>
+      <node ref="U3" pin="13" pinfunction="RTS" pintype="input"/>
+    </net>
+    <net code="10" name="/MCP_RX">
+      <node ref="U1" pin="11" pinfunction="T1IN" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="RX" pintype="output"/>
+    </net>
+    <net code="11" name="/MCP_TX">
+      <node ref="U1" pin="12" pinfunction="R1OUT" pintype="output"/>
+      <node ref="U3" pin="7" pinfunction="TX" pintype="input"/>
+    </net>
+    <net code="12" name="/RS232_CTS">
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="R2IN" pintype="input"/>
+    </net>
+    <net code="13" name="/RS232_DCD">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="R2IN" pintype="input"/>
+    </net>
+    <net code="14" name="/RS232_DSR">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="R1IN" pintype="input"/>
+    </net>
+    <net code="15" name="/RS232_DTR">
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="T2OUT" pintype="output"/>
+    </net>
+    <net code="16" name="/RS232_RING">
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/RS232_RTS">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="T2OUT" pintype="output"/>
+    </net>
+    <net code="18" name="/RS232_RXD">
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="R1IN" pintype="input"/>
+    </net>
+    <net code="19" name="/RS232_TXD">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="T1OUT" pintype="output"/>
+    </net>
+    <net code="20" name="/RXIR">
+      <node ref="U3" pin="3" pinfunction="RXIR" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="RXD" pintype="output"/>
+    </net>
+    <net code="21" name="/TXIR">
+      <node ref="U3" pin="2" pinfunction="TXIR" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="TXD" pintype="input"/>
+    </net>
+    <net code="22" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="0" pinfunction="PAD" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="11" pinfunction="T1IN" pintype="input"/>
+      <node ref="U2" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="SD" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="Shield" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VS+" pintype="power_out"/>
+    </net>
+    <net code="32" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VS+" pintype="power_out"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VS-" pintype="power_out"/>
+    </net>
+    <net code="34" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VS-" pintype="power_out"/>
+    </net>
+    <net code="35" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="CLKIN/OSC1" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="CLKOUT/OSC2" pintype="output"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="V_{cc1}" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D2-Pad3)">
+      <node ref="D2" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="IRED_{Anode}" pintype="input"/>
+    </net>
+    <net code="43" name="unconnected-(U2-Pad14)">
+      <node ref="U2" pin="14" pinfunction="T1OUT" pintype="output"/>
+    </net>
+    <net code="44" name="unconnected-(U4-Pad2)">
+      <node ref="U4" pin="2" pinfunction="IRED_{Cathode}" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
